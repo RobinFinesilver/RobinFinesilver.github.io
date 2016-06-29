@@ -9,9 +9,9 @@
 title: Robin Finesilver - Piano For Hire
 email: rfinesilver@hotmail.com description: > # this means to ignore newlines until "baseurl:"
   I'm trying to build a quick website so that I can put gig lists in and I'm not on BLOODY FACEBOOK!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://robinfinesilver.github.io/" # the base hostname & protocol for your site
-twitter_username: rfinesilver
+baseurl: "https://robinfinesilver.github.io/" # the subpath of your site, e.g. /blog
+url: "https://www.facebook.com/robin.finesilver.music/" # the base hostname & protocol for your site
+twitter_username: @rfinesilver
 github_username:  RobinFinesilver
 
 # Build settings
