@@ -11,7 +11,7 @@ email: rfinesilver@hotmail.com description: > # this means to ignore newlines un
   I'm trying to build a quick website so that I can put gig lists in and I'm not on BLOODY FACEBOOK!
 baseurl: "https://robinfinesilver.github.io/" # the subpath of your site, e.g. /blog
 url: "https://www.facebook.com/robin.finesilver.music/" # the base hostname & protocol for your site
-twitter_username: @rfinesilver
+twitter_username: @RobinFinesilver
 github_username:  RobinFinesilver
 
 # Build settings
